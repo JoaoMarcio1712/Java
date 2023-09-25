@@ -20,7 +20,7 @@ public class Menu {
 		System.out.println("\nNome:             " + conta1.cliente.getNomeDoCliente());
 		System.out.println("Tipo de conta:    " + conta1.getTipoDeConta());
 		System.out.println("Saldo atual:    " + "R$ " + conta1.getSaldo());
-		System.out.println("\n*************************************************");
+		System.out.println("\n************************************************");
 	}
 
 	private static void mensagem() {
